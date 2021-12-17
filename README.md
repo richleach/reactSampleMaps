@@ -1,1 +1,1 @@
-# Home Sweet Home
+I believe this mini React/GraphQL/Next.js application originates from an online training course that I took a while ago, unfortunately because I've taken quite a few of them recently I haven't been able to find the specific course; when I do I'll make sure to update this file and give the appropriate credit. Since then I've modified this application to provide a proof of concept to a realtor/property management client of mine where an authorized user can log in and then CRUD() properties and display on a map with supporting data about their properties.
